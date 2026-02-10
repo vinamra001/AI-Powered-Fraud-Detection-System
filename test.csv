@@ -1,0 +1,51 @@
+transaction_id,timestamp,customer_id,amount,merchant_category,customer_location,previous_transactions
+txn_001,2024-01-02 08:30:00,1024,45.50,groceries,New York,12
+txn_002,2024-01-02 08:35:00,1024,1200.00,electronics,New York,13
+txn_003,2024-01-02 08:36:00,1024,4500.00,jewelry,London,14
+txn_004,2024-01-02 09:15:00,1045,12.99,dining,Chicago,5
+txn_005,2024-01-02 10:00:00,1088,85.00,clothing,Los Angeles,22
+txn_006,2024-01-02 12:45:00,1088,9500.00,electronics,Miami,23
+txn_007,2024-01-02 14:20:00,1099,5.50,transport,Boston,2
+txn_008,2024-01-02 14:21:00,1099,5.50,transport,Boston,3
+txn_009,2024-01-02 14:22:00,1099,5.50,transport,Boston,4
+txn_010,2024-01-02 14:23:00,1099,500.00,tech,Boston,5
+txn_011,2024-01-03 01:15:00,1050,230.00,dining,Seattle,8
+txn_012,2024-01-03 03:45:00,1050,4500.00,jewelry,Paris,9
+txn_013,2024-01-03 08:00:00,1011,60.00,groceries,Austin,45
+txn_014,2024-01-03 08:10:00,1011,15.00,transport,Austin,46
+txn_015,2024-01-03 12:30:00,1067,99.99,electronics,San Francisco,10
+txn_016,2024-01-03 12:31:00,1067,2500.00,electronics,San Francisco,11
+txn_017,2024-01-03 15:00:00,1033,45.00,dining,Denver,18
+txn_018,2024-01-03 16:20:00,1033,120.00,clothing,Denver,19
+txn_019,2024-01-03 23:55:00,1033,8000.00,jewelry,Denver,20
+txn_020,2024-01-04 09:00:00,1077,35.00,groceries,Phoenix,30
+txn_021,2024-01-04 09:05:00,1077,2500.00,electronics,Phoenix,31
+txn_022,2024-01-04 09:10:00,1077,5000.00,jewelry,Phoenix,32
+txn_023,2024-01-04 10:30:00,1022,12.50,dining,Las Vegas,4
+txn_024,2024-01-04 11:00:00,1022,150.00,entertainment,Las Vegas,5
+txn_025,2024-01-04 14:00:00,1090,75.00,clothing,San Diego,15
+txn_026,2024-01-04 14:15:00,1090,8500.00,luxury,San Diego,16
+txn_027,2024-01-04 18:45:00,1055,20.00,transport,Portland,7
+txn_028,2024-01-04 19:00:00,1055,45.00,dining,Portland,8
+txn_029,2024-01-05 02:30:00,1015,250.00,electronics,Atlanta,25
+txn_030,2024-01-05 02:35:00,1015,500.00,electronics,Atlanta,26
+txn_031,2024-01-05 02:40:00,1015,1000.00,electronics,Atlanta,27
+txn_032,2024-01-05 08:00:00,1080,55.00,groceries,Dallas,40
+txn_033,2024-01-05 08:15:00,1080,9500.00,luxury,Dallas,41
+txn_034,2024-01-05 12:00:00,1060,15.00,dining,Houston,12
+txn_035,2024-01-05 13:30:00,1060,4500.00,jewelry,Houston,13
+txn_036,2024-01-05 15:45:00,1040,30.00,transport,Philadelphia,9
+txn_037,2024-01-05 15:46:00,1040,6000.00,electronics,Philadelphia,10
+txn_038,2024-01-05 18:00:00,1025,85.00,clothing,Detroit,21
+txn_039,2024-01-05 19:30:00,1025,90.00,dining,Detroit,22
+txn_040,2024-01-05 23:59:00,1095,9999.00,luxury,Unknown,5
+txn_041,2024-01-06 00:01:00,1095,5.00,test,Unknown,6
+txn_042,2024-01-06 08:30:00,1012,40.00,groceries,Minneapolis,33
+txn_043,2024-01-06 09:00:00,1012,5000.00,electronics,Minneapolis,34
+txn_044,2024-01-06 12:15:00,1070,25.00,dining,Tampa,14
+txn_045,2024-01-06 12:20:00,1070,7500.00,jewelry,Tampa,15
+txn_046,2024-01-06 15:00:00,1035,60.00,clothing,Orlando,18
+txn_047,2024-01-06 15:05:00,1035,120.00,clothing,Orlando,19
+txn_048,2024-01-06 15:10:00,1035,9000.00,luxury,Orlando,20
+txn_049,2024-01-06 20:00:00,1085,35.00,dining,Charlotte,11
+txn_050,2024-01-06 23:45:00,1085,4500.00,electronics,Charlotte,12
